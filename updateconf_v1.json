@@ -1,7 +1,7 @@
 {
-  "notes": "Новая глоб. версия 6.x.x, в которой уже есть много чего, чтобы заработало нужно установить обновление, подробнее читай на странице версии",
-  "url_notes": "https://github.com/MrGlany/AniHotAppPC/releases/tag/test",
+  "notes": "Чтобы заработало, нужно установить обновление, подробнее читай на странице версии",
+  "url_notes": "https://github.com/MrGlany/AniHotAppPC/releases/tag/6.0.6r",
   "versions": [
-    ["6.0.6", "b156eaea6c8e27fcb951eefd2b63cf071aef5c23dfff47df0262b280c2d77847", "https://github.com/MrGlany/AniHotAppPC/releases/download/test/zcxfcgvbgf.zip"]
+    ["6.0.6", "974dc1a11a3598712e10680d3ad7e990befbeff9f9bfabd10a30d77fdd298872", "https://github.com/MrGlany/AniHotAppPC/releases/download/6.0.6r/6.0.6-windows.zip"]
   ]
 }
