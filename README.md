@@ -1,5 +1,18 @@
 # AniHotAppWindows
-Application with a good interface for watching anime series
 
+Приложение с удобным интерфейсом для просмотра аниме-сериалов.
 
-Тесты проводились только на Linux Mint и Arch Linux с KDE Plasma
+## Тестирование
+
+Приложение проверялось на:
+
+- Linux Mint
+- Arch Linux (KDE Plasma)
+
+## Linux: обязательная зависимость
+
+Если `SQLite` ещё не установлен в системе, установите пакет для вашего дистрибутива:
+
+- Ubuntu/Debian: `sudo apt install libsqlite3-0`
+- Arch Linux: `sudo pacman -S sqlite`
+- Fedora: `sudo dnf install sqlite-libs`
