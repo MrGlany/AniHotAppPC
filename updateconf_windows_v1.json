@@ -2,6 +2,7 @@
   "notes": "Чтобы заработало, нужно установить обновление, подробнее читай на странице версии",
   "url_notes": "https://github.com/MrGlany/AniHotAppPC/releases/tag/6.1.4r",
   "versions": [
-    ["6.1.4", "151cbf8a056c6631df177d8a050cd9f623ad548a5ca636ef513e8531d5e5857d", "https://github.com/MrGlany/AniHotAppPC/releases/download/6.1.4r/6.1.4-windows.zip"]
+    ["6.1.4", "151cbf8a056c6631df177d8a050cd9f623ad548a5ca636ef513e8531d5e5857d", "https://github.com/MrGlany/AniHotAppPC/releases/download/6.1.4r/6.1.4-windows.zip"],
+    ["6.1.5", "8c92e6abd4fdd23089fe74cbf058afd54b813cf1038f56ab48406eb7037ee001", "https://github.com/MrGlany/AniHotAppAndroid/releases/download/6.1.4r/AniHot-6.1.apk.4"]
   ]
 }
