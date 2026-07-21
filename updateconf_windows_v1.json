@@ -1,7 +1,7 @@
 {
   "notes": "Чтобы заработало, нужно установить обновление, подробнее читай на странице версии",
-  "url_notes": "https://github.com/MrGlany/AniHotAppPC/releases/tag/6.1.6r",
+  "url_notes": "https://github.com/MrGlany/AniHotAppPC/releases/tag/6.1.7r",
   "versions": [
-    ["6.1.6", "7dc1658b4f0daa83423b2f0f4b2dea35a9d52613fdd96a2cebd1bd6c5a9cea19", "https://github.com/MrGlany/AniHotAppPC/releases/download/6.1.6r/6.1.6-windows.zip"]
+    ["6.1.7", "727b3b24d78f51bc47eeae23e78f0b77a8e27274fdfb8bf300d7e1e1244639b9", "https://github.com/MrGlany/AniHotAppPC/releases/download/6.1.7r/6.1.7-windows.zip"]
   ]
 }
