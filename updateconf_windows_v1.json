@@ -1,7 +1,7 @@
 {
-  "notes": "Чтобы заработало, нужно установить обновление, подробнее читай на странице версии",
-  "url_notes": "https://github.com/MrGlany/AniHotAppPC/releases/tag/6.1.8r",
+  "notes": "Чтобы заработало, нужно установить обновление, подробнее читай на странице версии или в ленте AniHot App (Доступно для зарегистрированных)",
+  "url_notes": "https://github.com/MrGlany/AniHotAppPC/releases/tag/6.1.9r",
   "versions": [
-    ["6.1.8", "4e529a1b3868d01bb6a217cd4259bf61985402636b34f6854c045bcd73360bf9", "https://github.com/MrGlany/AniHotAppPC/releases/download/6.1.8r/6.1.8-windows.zip"]
+    ["6.1.9", "3d4d8253ce09265c802261641e73772df152532ab61399822ed092e38c93c843", "https://github.com/MrGlany/AniHotAppPC/releases/download/6.1.9r/6.1.9-windows.zip"]
   ]
 }
