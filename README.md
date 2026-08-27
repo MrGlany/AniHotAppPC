@@ -18,7 +18,7 @@
 
 `yay -S anihot-app`
 
-## Linux: обязательная зависимость
+## Linux: обязательная зависимости
 
 Если `SQLite` ещё не установлен в системе, установите пакет для вашего дистрибутива:
 
@@ -26,10 +26,14 @@
 - Arch Linux: `sudo pacman -S sqlite`
 - Fedora: `sudo dnf install sqlite-libs`
 
+Если `MPV` ещё не установлен в системе, установите пакет для вашего дистрибутива:
+
+- Ubuntu/Debian: `sudo apt install mpv`
+- Arch Linux: `sudo pacman -S mpv`
+- Fedora: `sudo dnf install mpv`
+
 ## Контакты
 https://t.me/Enagie - в ТГ менеджер
-
-https://t.me/glanystudio - Студия работающая над приложением
 
 ## ТГ канал
 https://t.me/anihot_news - Официальный канал новостей / Так же можно писать в личные сообщения канала по вопросам
