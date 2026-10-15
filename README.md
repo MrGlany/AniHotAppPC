@@ -9,6 +9,7 @@
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/MrGlany/AniHotAppPC/releases/latest)
 [![Linux](https://img.shields.io/badge/Linux-supported-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/MrGlany/AniHotAppPC/releases/latest)
 [![Latest release](https://img.shields.io/github/v/release/MrGlany/AniHotAppPC?style=for-the-badge&label=Release&color=7C3AED)](https://github.com/MrGlany/AniHotAppPC/releases/latest)
+[![Все права защищены](https://img.shields.io/badge/%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F-%D0%92%D1%81%D0%B5%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0%20%D0%B7%D0%B0%D1%89%D0%B8%D1%89%D0%B5%D0%BD%D1%8B-201D30?style=for-the-badge)](LICENSE_RU.md)
 
 <br>
 
@@ -37,11 +38,10 @@
 
 ### 🎥 Плеер для большого экрана
 
-В основе плеера — **DirectMPV**, нативная интеграция **libmpv** в приложение на Flutter:
+В AniHot App используется **DirectMPV** — встроенный плеер для комфортного просмотра:
 
-- **Windows:** видеовывод через ANGLE / D3D11.
-- **Linux:** видеовывод через OpenGL (X11 / Wayland).
-- Продолжение просмотра, управление сериями и озвучками, работа с потоковым видео.
+- Выбор источника, озвучки и серии.
+- Продолжение с места остановки и работа с потоковым видео.
 - Постоянный сетевой кэш для воспроизведения (не заменяет полноценные офлайн-загрузки).
 - Мини-плеер и режим «картинка в картинке» с учётом возможностей оконной системы.
 
@@ -82,7 +82,7 @@ yay -S anihot-app
 
 **Остальные дистрибутивы:** скачай архив **`-linux.zip`** из [Releases](https://github.com/MrGlany/AniHotAppPC/releases/latest).
 
-При проблемах с запуском проверь наличие системных библиотек SQLite и mpv/libmpv. В зависимости от сборки часть библиотек плеера уже может поставляться вместе с приложением.
+Если приложение не запускается, проверь наличие необходимых системных пакетов. Часть компонентов уже может входить в архив приложения.
 
 <details>
 <summary><b>Команды установки системных библиотек</b></summary>
@@ -132,7 +132,7 @@ sudo dnf install sqlite-libs mpv
 
 <br>
 
-Комнаты позволяют смотреть серии вместе. Синхронизация событий построена на Centrifugo, а голосовая связь в комнатах — на LiveKit. В приложении также есть личные чаты и социальные функции.
+Смотри серии вместе с друзьями в комнатах, общайся во время просмотра через текстовый чат или голосовую связь. Также доступны личные сообщения и социальные функции.
 
 </details>
 
