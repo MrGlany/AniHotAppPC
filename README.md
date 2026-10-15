@@ -174,6 +174,24 @@ sudo dnf install sqlite-libs mpv
 
 ---
 
+## ⭐ История звёзд
+
+<div align="center">
+
+<a href="https://www.star-history.com/?repos=MrGlany%2FAniHotAppPC&type=date&legend=bottom-right">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=MrGlany/AniHotAppPC&type=date&legend=bottom-right&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=MrGlany/AniHotAppPC&type=date&legend=bottom-right" />
+    <img alt="История звёзд AniHotAppPC" src="https://api.star-history.com/chart?repos=MrGlany/AniHotAppPC&type=date&legend=bottom-right" width="800" />
+  </picture>
+</a>
+
+<sub>Нажми на график, чтобы открыть интерактивную статистику.</sub>
+
+</div>
+
+---
+
 <div align="center">
 
 **Аниме — там, где тебе удобно.**
