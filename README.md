@@ -9,7 +9,6 @@
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/MrGlany/AniHotAppPC/releases/latest)
 [![Linux](https://img.shields.io/badge/Linux-supported-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/MrGlany/AniHotAppPC/releases/latest)
 [![Latest release](https://img.shields.io/github/v/release/MrGlany/AniHotAppPC?style=for-the-badge&label=Release&color=7C3AED)](https://github.com/MrGlany/AniHotAppPC/releases/latest)
-[![Все права защищены](https://img.shields.io/badge/%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F-%D0%92%D1%81%D0%B5%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0%20%D0%B7%D0%B0%D1%89%D0%B8%D1%89%D0%B5%D0%BD%D1%8B-201D30?style=for-the-badge)](LICENSE_RU.md)
 
 <br>
 
@@ -183,6 +182,6 @@ sudo dnf install sqlite-libs mpv
 
 [Релизы](https://github.com/MrGlany/AniHotAppPC/releases) · [Лицензия](LICENSE_RU.md) · [Новости](https://t.me/anihot_news)
 
-<sub>© 2026 Glany Studio. Все права защищены. Программное обеспечение распространяется на условиях лицензии репозитория.</sub>
+<sub>AniHot App · Проект Glany Studio. Условия распространения указаны в лицензии.</sub>
 
 </div>
